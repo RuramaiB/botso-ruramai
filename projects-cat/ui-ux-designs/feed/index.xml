@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UI/UX Designs &#8211; Ruramai O Botso</title>
+	<atom:link href="https://ruramaib.github.io/botso-ruramai/projects-cat/ui-ux-designs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ruramaib.github.io/botso-ruramai</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Oct 2024 09:03:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Online Food Delivery Mobile App Design.</title>
+		<link>https://ruramaib.github.io/botso-ruramai/projects/online-food-delivery-mobile-app-design/</link>
+		
+		<dc:creator><![CDATA[personal]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 20:19:55 +0000</pubDate>
+				<guid isPermaLink="false">https://ruramaib.github.io/botso-ruramai/projects/mobile-app-landing-design-service-copy/</guid>
+
+					<description><![CDATA[UI/UX Design]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1200" height="600" src="https://ruramaib.github.io/botso-ruramai/wp-content/uploads/2021/08/portfolio-large-03.jpg" alt="portfolio-large-03" class="wp-image-3315"/></figure>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h5 class="wp-block-heading has-text-align-center">UI/UX <strong>Design</strong></h5>
+
+
+
+<p class="has-text-align-center"></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%"></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
